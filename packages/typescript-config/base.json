@@ -1,5 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Default",
   "compilerOptions": {
     "declaration": true,
     "declarationMap": true,
@@ -14,10 +15,6 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
-    "target": "ES2022",
-    "paths": {
-      "@nody/ui": ["../../packages/ui/src/index.ts"],
-      "@nody/ui/components": ["../../packages/ui/components/index.ts"]
-    }
+    "target": "ES2022"
   }
 }

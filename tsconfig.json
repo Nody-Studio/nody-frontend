@@ -1,0 +1,3 @@
+{
+  "extends": "@nody/typescript-config/base.json"
+}

@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  transpilePackages: ["@nody/ui"],
-
+  transpilePackages: ['@nody/ui'],
 };
 
 export default nextConfig;
